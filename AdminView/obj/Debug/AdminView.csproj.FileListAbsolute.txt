@@ -1,0 +1,7 @@
+C:\Users\Khaleeq\Documents\Visual Studio 2013\Projects\CMS\AdminView\bin\Debug\AdminView.dll
+C:\Users\Khaleeq\Documents\Visual Studio 2013\Projects\CMS\AdminView\bin\Debug\AdminView.pdb
+C:\Users\Khaleeq\Documents\Visual Studio 2013\Projects\CMS\AdminView\obj\Debug\AdminView.csprojResolveAssemblyReference.cache
+C:\Users\Khaleeq\Documents\Visual Studio 2013\Projects\CMS\AdminView\obj\Debug\AdminView.dll
+C:\Users\Khaleeq\Documents\Visual Studio 2013\Projects\CMS\AdminView\obj\Debug\AdminView.pdb
+C:\Users\Khaleeq\Documents\Visual Studio 2013\Projects\CMS\AdminView\bin\Debug\MIDDLE.dll
+C:\Users\Khaleeq\Documents\Visual Studio 2013\Projects\CMS\AdminView\bin\Debug\MIDDLE.pdb

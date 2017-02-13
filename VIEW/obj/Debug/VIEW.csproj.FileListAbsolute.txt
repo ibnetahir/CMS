@@ -1,0 +1,13 @@
+C:\Users\Khaleeq\Documents\Visual Studio 2013\Projects\CMS\VIEW\bin\Debug\VIEW.dll
+C:\Users\Khaleeq\Documents\Visual Studio 2013\Projects\CMS\VIEW\bin\Debug\VIEW.pdb
+C:\Users\Khaleeq\Documents\Visual Studio 2013\Projects\CMS\VIEW\bin\Debug\AdminView.dll
+C:\Users\Khaleeq\Documents\Visual Studio 2013\Projects\CMS\VIEW\bin\Debug\CustomerView.dll
+C:\Users\Khaleeq\Documents\Visual Studio 2013\Projects\CMS\VIEW\bin\Debug\AdminView.pdb
+C:\Users\Khaleeq\Documents\Visual Studio 2013\Projects\CMS\VIEW\bin\Debug\CustomerView.pdb
+C:\Users\Khaleeq\Documents\Visual Studio 2013\Projects\CMS\VIEW\obj\Debug\VIEW.csprojResolveAssemblyReference.cache
+C:\Users\Khaleeq\Documents\Visual Studio 2013\Projects\CMS\VIEW\obj\Debug\VIEW.dll
+C:\Users\Khaleeq\Documents\Visual Studio 2013\Projects\CMS\VIEW\obj\Debug\VIEW.pdb
+C:\Users\Khaleeq\Documents\Visual Studio 2013\Projects\CMS\VIEW\bin\Debug\BO.dll
+C:\Users\Khaleeq\Documents\Visual Studio 2013\Projects\CMS\VIEW\bin\Debug\MIDDLE.dll
+C:\Users\Khaleeq\Documents\Visual Studio 2013\Projects\CMS\VIEW\bin\Debug\BO.pdb
+C:\Users\Khaleeq\Documents\Visual Studio 2013\Projects\CMS\VIEW\bin\Debug\MIDDLE.pdb

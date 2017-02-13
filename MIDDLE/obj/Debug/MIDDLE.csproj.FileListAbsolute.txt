@@ -1,0 +1,5 @@
+C:\Users\Khaleeq\Documents\Visual Studio 2013\Projects\CMS\MIDDLE\bin\Debug\MIDDLE.dll
+C:\Users\Khaleeq\Documents\Visual Studio 2013\Projects\CMS\MIDDLE\bin\Debug\MIDDLE.pdb
+C:\Users\Khaleeq\Documents\Visual Studio 2013\Projects\CMS\MIDDLE\obj\Debug\MIDDLE.dll
+C:\Users\Khaleeq\Documents\Visual Studio 2013\Projects\CMS\MIDDLE\obj\Debug\MIDDLE.pdb
+C:\Users\Khaleeq\Documents\Visual Studio 2013\Projects\CMS\MIDDLE\obj\Debug\MIDDLE.csprojResolveAssemblyReference.cache

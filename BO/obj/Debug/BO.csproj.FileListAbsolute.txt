@@ -1,0 +1,7 @@
+C:\Users\Khaleeq\Documents\Visual Studio 2013\Projects\CMS\BO\bin\Debug\BO.dll
+C:\Users\Khaleeq\Documents\Visual Studio 2013\Projects\CMS\BO\bin\Debug\BO.pdb
+C:\Users\Khaleeq\Documents\Visual Studio 2013\Projects\CMS\BO\bin\Debug\MIDDLE.dll
+C:\Users\Khaleeq\Documents\Visual Studio 2013\Projects\CMS\BO\bin\Debug\MIDDLE.pdb
+C:\Users\Khaleeq\Documents\Visual Studio 2013\Projects\CMS\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
+C:\Users\Khaleeq\Documents\Visual Studio 2013\Projects\CMS\BO\obj\Debug\BO.dll
+C:\Users\Khaleeq\Documents\Visual Studio 2013\Projects\CMS\BO\obj\Debug\BO.pdb

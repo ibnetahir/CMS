@@ -1,0 +1,14 @@
+C:\Users\Khaleeq\Documents\Visual Studio 2013\Projects\CMS\CMS\bin\Debug\CMS.exe.config
+C:\Users\Khaleeq\Documents\Visual Studio 2013\Projects\CMS\CMS\bin\Debug\CMS.exe
+C:\Users\Khaleeq\Documents\Visual Studio 2013\Projects\CMS\CMS\bin\Debug\CMS.pdb
+C:\Users\Khaleeq\Documents\Visual Studio 2013\Projects\CMS\CMS\bin\Debug\VIEW.dll
+C:\Users\Khaleeq\Documents\Visual Studio 2013\Projects\CMS\CMS\bin\Debug\VIEW.pdb
+C:\Users\Khaleeq\Documents\Visual Studio 2013\Projects\CMS\CMS\obj\Debug\CMS.csprojResolveAssemblyReference.cache
+C:\Users\Khaleeq\Documents\Visual Studio 2013\Projects\CMS\CMS\obj\Debug\CMS.exe
+C:\Users\Khaleeq\Documents\Visual Studio 2013\Projects\CMS\CMS\obj\Debug\CMS.pdb
+C:\Users\Khaleeq\Documents\Visual Studio 2013\Projects\CMS\CMS\bin\Debug\CustomerView.dll
+C:\Users\Khaleeq\Documents\Visual Studio 2013\Projects\CMS\CMS\bin\Debug\CustomerView.pdb
+C:\Users\Khaleeq\Documents\Visual Studio 2013\Projects\CMS\CMS\bin\Debug\BO.dll
+C:\Users\Khaleeq\Documents\Visual Studio 2013\Projects\CMS\CMS\bin\Debug\MIDDLE.dll
+C:\Users\Khaleeq\Documents\Visual Studio 2013\Projects\CMS\CMS\bin\Debug\BO.pdb
+C:\Users\Khaleeq\Documents\Visual Studio 2013\Projects\CMS\CMS\bin\Debug\MIDDLE.pdb
